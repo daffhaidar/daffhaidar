@@ -2,7 +2,7 @@
 
 🚀 Web3 Builder | Validator | Community Lead  
 💻 Passionate about decentralized technology  
-🌐 [My Portfolio Website](https://my-portofolio-daffhaidars-projects.vercel.app/)
+🌐 [My Portfolio Website](https://daffhaidarr.vercel.app/)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🧩 Featured Projects
 
-- 🎯 **[Portfolio Website](https://my-portofolio-daffhaidars-projects.vercel.app/)** — Built with Next.js, TailwindCSS, AOS Animations, and deployed on Vercel
+- 🎯 **[Portfolio Website](https://daffhaidarr.vercel.app/)** — Built with Next.js, TailwindCSS, AOS Animations, and deployed on Vercel
 - 🌉 **zkSync Contributor** — Active in community, growth, and testing initiatives
 - ⚙️ **Solana Smart Contract Dev** — Learning and building dApps using Anchor + Rust
 
