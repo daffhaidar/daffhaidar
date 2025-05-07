@@ -14,6 +14,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Python](http://img.shields.io/badge/Python-06B6D4?style=for-the-badge&logo=Python)
+![Solidity](http://img.shields.io/badge/Solidity-06B6D4?style=for-the-badge&logo=Solidity)
 
 ---
 
