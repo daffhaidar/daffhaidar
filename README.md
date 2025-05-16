@@ -121,5 +121,11 @@ I'm a passionate blockchain developer and community leader with extensive experi
   
   <br>
   
+  <!-- Me when in fee time be like: -->
+  <h2>Me when in free time be like:</h2>
+  <p>
+    <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Pacman Animation" width="100%"/>
+  </p>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
