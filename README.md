@@ -121,8 +121,8 @@ I'm a passionate blockchain developer and community leader with extensive experi
   
   <br>
   
-  <!-- Me when in fee time be like: -->
-  <h2>Me when in free time be like:</h2>
+  <!-- Me when fee time be like: -->
+  <h2>Me when free time be like:</h2>
   <p>
     <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Pacman Animation" width="100%"/>
   </p>
