@@ -96,11 +96,11 @@ I'm a passionate blockchain developer and community leader with extensive experi
 </a>
 </div>
 <div align="center">
-<a href="https://github.com/daffhaidar/solana-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daffhaidar&repo=solana-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8" />
+<a href="https://github.com/daffhaidar/go-bookstore-api.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daffhaidar&repo=go-bookstore-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8" />
 </a>
-<a href="https://github.com/daffhaidar/tictactoe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daffhaidar&repo=tictactoe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8" />
+<a href="https://github.com/daffhaidar/nft-marketplace-clean.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daffhaidar&repo=nft-marketplace-clean&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8" />
 </a>
 </div>
 
