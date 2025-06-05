@@ -2,7 +2,7 @@
   
 # ✨ Daffa Haidar ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Blockchain+Developer;Web3+Builder;Validator;Community+Lead" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Blockchain+Developer;Web3+Builder;Blockchain+Node+Operator;Cloud+Engineer;Community+Lead" alt="Typing SVG" />
 
   
 <p>
@@ -25,15 +25,15 @@
 
 ```javascript
 const daffa = {
-  title: "Blockchain Developer & Community Lead",
+  title: "Blockchain Developer. Community Lead. Blockchain Node Operator & Cloud Engineer.",
   location: "Remote",
-  focus: ["Smart Contracts", "Web3", "DeFi", "Blockchain Infrastructure"],
-  experience: "4+ years in blockchain ecosystem",
-  passions: ["Decentralized tech", "Community building", "Open-source contribution"]
+  focus: ["Smart Contracts", "Web3", "DeFi", "Blockchain Infrastructure", "Cloud Solutions", "DevOps Practices"],
+  experience: "4+ years in the blockchain ecosystem",
+  passions: ["Decentralized tech", "Community building", "Open-source contribution", "Cloud Native Technologies"]
 };
 ```
 
-I'm a passionate blockchain developer and community leader with extensive experience in decentralized technologies. From operating blockchain nodes and validators to developing smart contracts and managing crypto communities, I thrive in the Web3 ecosystem.
+I'm a passionate blockchain developer and community leader with extensive experience in decentralized technologies. My work involves designing and managing cloud infrastructure for blockchain nodes, developing smart contracts, and leading crypto communities, all within the thriving Web3 ecosystem.
 
 ## 🛠️ Technologies & Tools
 
@@ -60,6 +60,18 @@ I'm a passionate blockchain developer and community leader with extensive experi
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
 
 ### ⚙️ Blockchain & DeFi
 
@@ -94,7 +106,7 @@ I'm a passionate blockchain developer and community leader with extensive experi
 
 ## 💼 Experience Highlights
 
-- **Blockchain Developer** (Self-employed) - Operating nodes & validators, developing smart contracts
+- **Blockchain Developer& Cloud Engineer (Self-employed)** Designing, deploying, and managing secure cloud infrastructure for blockchain nodes & validators; developing smart contracts.
 - **Validator** at Starknet Foundation, Q Blockchain, & Sui Foundation
 - **Community Manager** at TradingLeagues, ZKsync, LayerZero Labs, & Sei Labs
 - **Moderator** at leading blockchain projects including Arbitrum & ZKsync
