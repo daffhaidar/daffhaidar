@@ -12,13 +12,6 @@
   <a href="https://daffhaidarr.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daffhaidar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=fff&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffhaidar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=fff" />
-</a>
-
 </div>
 
 ## 🚀 About Me
