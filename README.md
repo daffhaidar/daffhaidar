@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm [Daffa Haidar](https://daffhaidarr.vercel.app/) 👋
+# Daffa Haidar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&height=50&lines=Blockchain+Developer+%7C+Node+Operator+%7C+Cloud+Engineer;Web3+Builder+%7C+Community+Lead" alt="Typing SVG" />
+**Blockchain Infrastructure · Community · Building with AI**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffhaidar)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:daffahaidar1501@gmail.com)
@@ -14,24 +14,22 @@
 
 ### About
 
-Blockchain developer & infrastructure operator with 4+ years in the ecosystem. I design and manage cloud infra for blockchain nodes and validators, build smart contracts, and lead crypto communities. Currently focused on DeFi protocols, multi-chain validator ops, and Web3 automation.
+6 years in the blockchain ecosystem — started in 2020, never stopped building. My background isn't traditional CS — I come from aviation (A&P certified, SMK 29 Jakarta) and fell deep into Web3 infrastructure and community.
 
-### Tech Stack
+I design and manage cloud infra for blockchain nodes and validators, build dApps and smart contracts (with AI-assisted development), and lead communities across major protocols. I care more about shipping real things than writing perfect code.
 
-**Languages** — Solidity · Rust · JavaScript/TypeScript · Python · Go
+Currently exploring DeFi protocols, on-chain security research, and AI-powered Web3 automation.
 
-**Blockchain** — Ethereum · Solana · Web3.js · Smart Contracts · DeFi Protocols
+### What I Ship
 
-**Frontend** — React · Next.js · Tailwind CSS
+- ⚙️ **Node Operations** — Running validators & nodes across multiple chains: Starknet, Sui, Q Blockchain, and more
+- ☁️ **Cloud Infrastructure** — Deploying and managing blockchain infra at scale (AWS, Oracle Cloud, bare metal)
+- 🔗 **Web3 Building** — Smart contracts, dApps, DeFi tools — prototyped with AI-assisted development
+- 🤝 **Community** — CM at TradingLeagues, ZKsync, LayerZero, Sei Labs | Mod at Arbitrum & ZKsync
 
-**Infra & Cloud** — AWS · Oracle Cloud · Docker · Linux · Nginx · CI/CD
+### Tools I Work With
 
-### What I Do
-
-- 🔗 **Blockchain Dev** — Smart contract development, dApp architecture, DeFi integrations
-- ⚙️ **Node Operations** — Running validators & nodes across multiple chains (Starknet, Sui, Q Blockchain)
-- ☁️ **Cloud Engineering** — Deploying and managing blockchain infrastructure at scale
-- 🤝 **Community** — Community Manager at TradingLeagues, ZKsync, LayerZero, Sei Labs | Moderator at Arbitrum & ZKsync
+Solidity · Rust · JavaScript/TypeScript · Python · Go · React · Next.js · Tailwind · Docker · Linux · Nginx · AWS · Oracle Cloud · Web3.js
 
 ### Featured Projects
 
@@ -40,7 +38,7 @@ Blockchain developer & infrastructure operator with 4+ years in the ecosystem. I
 <td width="50%">
 
 **[Solana Staking App](https://github.com/daffhaidar/solana-staking-app)**
-Solana staking dApp with wallet integration
+Staking dApp on Solana with wallet integration
 
 </td>
 <td width="50%">
@@ -54,13 +52,13 @@ Web3 toolkit & utilities
 <td width="50%">
 
 **[Go Bookstore API](https://github.com/daffhaidar/go-bookstore-api)**
-REST API in Go with clean architecture
+REST API built in Go — clean architecture
 
 </td>
 <td width="50%">
 
 **[NFT Marketplace](https://github.com/daffhaidar/nft-marketplace-clean)**
-Clean NFT marketplace implementation
+NFT marketplace implementation
 
 </td>
 </tr>
