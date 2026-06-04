@@ -2,7 +2,7 @@
 
 # Daffa Haidar 👋
 
-**Blockchain Infrastructure · Community · Building with AI**
+**Blockchain Infrastructure · Community · DevRel**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffhaidar)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:daffahaidar1501@gmail.com)
@@ -14,18 +14,18 @@
 
 ### About
 
-6 years in the blockchain ecosystem — started in 2020, never stopped building. My background isn't traditional CS — I come from aviation (A&P certified, SMK 29 Jakarta) and fell deep into Web3 infrastructure and community.
+6 years in Web3 — started in 2020, never left. My background is aviation (A&P certified, SMK 29 Jakarta), but I found my lane in blockchain infrastructure and community.
 
-I design and manage cloud infra for blockchain nodes and validators, build dApps and smart contracts (with AI-assisted development), and lead communities across major protocols. I care more about shipping real things than writing perfect code.
+I run validators and nodes across multiple chains, manage cloud infra for blockchain projects, build communities from the ground up, and ship working prototypes. I'm the guy who understands both the tech and the people — bridging developers, communities, and protocols.
 
-Currently exploring DeFi protocols, on-chain security research, and AI-powered Web3 automation.
+Currently exploring DeFi, on-chain security, and where DevRel meets growth.
 
-### What I Ship
+### What I Do
 
-- ⚙️ **Node Operations** — Running validators & nodes across multiple chains: Starknet, Sui, Q Blockchain, and more
-- ☁️ **Cloud Infrastructure** — Deploying and managing blockchain infra at scale (AWS, Oracle Cloud, bare metal)
-- 🔗 **Web3 Building** — Smart contracts, dApps, DeFi tools — prototyped with AI-assisted development
-- 🤝 **Community** — CM at TradingLeagues, ZKsync, LayerZero, Sei Labs | Mod at Arbitrum & ZKsync
+- 🤝 **Community & DevRel** — CM at TradingLeagues, ZKsync, LayerZero, Sei Labs | Mod at Arbitrum & ZKsync | Building and growing Web3 communities
+- ⚙️ **Node Operations** — Running validators across Starknet, Sui, Q Blockchain, and more
+- ☁️ **Infrastructure** — Cloud infra for blockchain nodes at scale (AWS, Oracle Cloud, bare metal)
+- 🔗 **Building** — Smart contracts, dApps, DeFi tools — shipping prototypes and getting things live
 
 ### Tools I Work With
 
